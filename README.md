@@ -1,4 +1,2 @@
-# helloworld
-im javon testing out github
-
-Just a test
+# Classproject
+This is the zip for the class project if you need to work on it yourself 
